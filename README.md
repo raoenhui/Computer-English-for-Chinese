@@ -1,5 +1,5 @@
 # Computer-English-for-Chinese
-计算机英语大全
+计算机英语大全.欢迎大家来提[PR](https://github.com/raoenhui/Computer-English-for-Chinese/pulls).
 
 ## A字母 
 |  英文   | 中文  |  备注   | 引用  |
@@ -19,6 +19,11 @@
 |  ----  | ----  |  ----  | ----  |
 | DaaS(Data as a Service)  | 数据即服务 | - | [IaaS、PaaS、SaaS、FaaS以及XPaaS大全](https://juejin.cn/post/6982531413924921374) |
 | dbPaaS(Database Platform as a Service)  | 数据库平台即服务 | - | [IaaS、PaaS、SaaS、FaaS以及XPaaS大全](https://juejin.cn/post/6982531413924921374) |
+
+## E字母 
+|  英文   | 中文  |  备注   | 引用  |
+|  ----  | ----  |  ----  | ----  |
+| Elastic Job | 分布式调度解决方案 | - | [https://shardingsphere.apache.org/elasticjob/index_zh.html](https://shardingsphere.apache.org/elasticjob/index_zh.html) |
 
 ## F字母 
 |  英文   | 中文  |  备注   | 引用  |
@@ -51,6 +56,8 @@
 |  英文   | 中文  |  备注   | 引用  |
 |  ----  | ----  |  ----  | ----  |
 | SaaS(Software as a service)  | 软件服务 | -  | [IaaS、PaaS、SaaS、FaaS以及XPaaS大全](https://juejin.cn/post/6982531413924921374) |
+| SOP(Standard Operating Procedure)  | 即标准作业程序 | 将某一事件的标准操作步骤和要求以统一的格式描述出来，用于指导和规范日常的工作  | - |
+| SM(Scrum Master) | 敏捷专家 | - | - |
 
 ## U字母 
 |  英文   | 中文  |  备注   | 引用  |
