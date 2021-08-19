@@ -14,6 +14,11 @@
 | BaaS(Backend as a Service)  | 后端即服务 | 服务商为客户(开发者)提供整合云后端的服务，如提供文件存储、数据存储、推送服务、身份验证服务等功能 | [IaaS、PaaS、SaaS、FaaS以及XPaaS大全](https://juejin.cn/post/6982531413924921374) |
 | baPaaS(Business analytics PaaS) | 管理平台即服务 | - | [IaaS、PaaS、SaaS、FaaS以及XPaaS大全](https://juejin.cn/post/6982531413924921374) |
 
+## C字母 
+|  英文   | 中文  |  备注   | 引用  |
+|  ----  | ----  |  ----  | ----  |
+| CK(Clickhouse)  | 一个数据分析的数据库 | - | [ClickHouse概述](https://www.jianshu.com/p/350b59e8ea68) |
+
 ## D字母 
 |  英文   | 中文  |  备注   | 引用  |
 |  ----  | ----  |  ----  | ----  |
